@@ -1,2 +1,2 @@
-# testfeb15
-test of how to create a repo
+# Project 1
+Cabbage Friends
