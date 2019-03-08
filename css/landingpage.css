@@ -1,0 +1,16 @@
+body{
+	//background-size: 100%;
+	background-image: url(../pictures/bg.jpg);
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+
+.col-sm-12{
+	height: 100px;
+}
+li{
+	text-align: center;
+}
