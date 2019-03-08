@@ -81,8 +81,13 @@ hr {
   }
 }
 .navbar-inverse {
+<<<<<<< HEAD
   background-color: cadetblue;
   border-color: palegreen;
+=======
+  background-color: #222222;
+  border-color: #222222;
+>>>>>>> 4a011ed37da0cb75e2835b8aa19d6d6a7572ee3c
 }
 
 .navbar-inverse .navbar-nav>li>a {
